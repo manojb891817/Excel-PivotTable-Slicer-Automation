@@ -1,5 +1,7 @@
 # Excel PivotTable Slicer Automation
 
+![Dashboard Preview](Generated-Image-September-10-2025-11-24PM.png)
+
 This project showcases a robust Excel dashboard leveraging advanced PivotTable and Slicer automation techniques. Designed for enhanced data analysis, it provides a dynamic and interactive environment for reporting, particularly suitable for sales performance tracking. The solution integrates VBA to synchronize multiple PivotTables with a single set of Slicers, ensuring a cohesive and intuitive user experience.
 
 ---
