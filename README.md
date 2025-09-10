@@ -1,3 +1,5 @@
+# Excel PivotTable Slicer Automation
+
 <img width="1632" height="640" alt="Generated Image September 10, 2025 - 11_24PM" src="https://github.com/user-attachments/assets/a8183d9f-f8d0-4ed6-93b2-6fffeb4d19ea" /># Excel PivotTable Slicer Automation
 
 ![Dashboard Preview]( "Generated Image September 10, 2025 - 11_24PM.png")
